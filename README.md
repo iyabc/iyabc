@@ -7,12 +7,12 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img align="left" class="img" src="https://github-readme-stats.vercel.app/api?username=iyabc&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=false" />
-  <img align="right"class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=iyabc&theme=shades-of-purple&hide_border=true" /><br/>
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=iyabc&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=false" />
+  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=iyabc&theme=shades-of-purple&hide_border=true" /><br/>
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyabc&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+  <img align="right" alt="miming 1" width="120" src="https://user-images.githubusercontent.com/57930589/193986724-9fa1f3cd-28f5-4f1c-8193-59dfd7f35055.gif"/>
 </div>
 
 ### 🌐 Socials:
 <img class="img" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julienne-andrea-panes-99456024a/" />
-<img align="right" alt="miming 1" width="120" src="https://user-images.githubusercontent.com/57930589/193986724-9fa1f3cd-28f5-4f1c-8193-59dfd7f35055.gif"/>
 
