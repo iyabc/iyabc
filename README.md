@@ -3,7 +3,7 @@
 - [Portfolio](https://github.com/iyabc/juliennepanes)
 - [Sadya 2023](https://github.com/iyabc/AdDU-sadya-2023)
 - [Sadya 2022](https://github.com/iyabc/AdDU-SAMAHAN-Fiesta-Website)
-- [SAMAHAN]([https://github.com/iyabc/AdDU-SAMAHAN-Fiesta-Website](https://github.com/iyabc/samahan-at-the-get-go))
+- [SAMAHAN](https://github.com/iyabc/samahan-at-the-get-go)
 
 ### 🌐 Socials
 <img class="img" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julienne-andrea-panes-99456024a/" />
