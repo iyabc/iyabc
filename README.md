@@ -1,8 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/57930589/193985486-b59a0362-71c1-4410-b232-7e391d172b3c.gif)](https://rishavchanda.io)
 
-### Portfolio
-
-https://juliennepanes.vercel.app/
+See my [Portfolio](https://juliennepanes.pages.dev/)!
 
 ### 🌐 Socials
 <img class="img" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julienne-andrea-panes-99456024a/" />
