@@ -1,3 +1,5 @@
+Check out my [portfolio](https://juliennepanes.pages.dev/)!
+
 ## Featured
 
 - [Portfolio](https://github.com/iyabc/juliennepanes)
