@@ -10,7 +10,7 @@ Check out my [portfolio](https://juliennepanes.pages.dev/)!
 
 [<img width="1904" height="910" alt="SAMAHAN" src="https://github.com/user-attachments/assets/1341f25e-95e9-478a-a53b-1699b5dc6042" />](https://github.com/iyabc/samahan-at-the-get-go)
 
-[<img width="1906" height="908" alt="image" src="https://github.com/user-attachments/assets/a143368a-bce7-408f-9553-65c1a3e1b141" />](https://github.com/iyabc/portfolio-blog)
+[<img width="1906" height="908" alt="Portfolio Blog" src="https://github.com/user-attachments/assets/a143368a-bce7-408f-9553-65c1a3e1b141" />](https://github.com/iyabc/portfolio-blog)
 
 
 ### 🌐 Socials
